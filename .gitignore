@@ -1,0 +1,48 @@
+# Dependency directories
+/node_modules/
+
+# Vite / build output
+/dist/
+/.vite/
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Test / coverage
+/coverage/
+
+# Misc
+*.tgz
+*.zip
+.cache/
+
+# Ignore local history or temp folders
+.history/
+
+# Keep lockfiles (package-lock.json / yarn.lock) committed
+
+# Optional: ignore build artifacts created by other tools
+/build/
+
+# Ignore system-level files
+*.pem
+
+# End of file
